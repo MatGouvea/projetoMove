@@ -1,6 +1,6 @@
 # projeto_move
 
-Aplicação de geolocalização para pessoas com deficiência feita em Flutter.
+Aplicação de geolocalização para a pessoa com deficiência feita em Flutter.
 
 ## Getting Started
 
