@@ -1,6 +1,6 @@
 # projeto_move
 
-A new Flutter project.
+Aplicação de geolocalização para pessoas com deficiência feita em Flutter.
 
 ## Getting Started
 
